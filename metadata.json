@@ -1,0 +1,7 @@
+{
+  "name": "Suivi du Matériel",
+  "description": "Une application web complète pour la gestion des stocks qui permet aux utilisateurs d'ajouter, de visualiser, de modifier, de supprimer et de rechercher des produits. Elle comprend une fonctionnalité alimentée par l'IA pour générer automatiquement des descriptions de produits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
